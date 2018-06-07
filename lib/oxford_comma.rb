@@ -1,4 +1,3 @@
 def oxford_comma(array)
-array = ["kiwi",].join(" and ")
-array << ("durian")
+array = ["kiwi",].join
 end
