@@ -9,6 +9,5 @@ def oxford_comma(array)
         array.push(new_array_item)
           return array.join(", ")
         end
-      end
-    end
+
 end
