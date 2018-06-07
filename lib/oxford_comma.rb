@@ -1,8 +1,8 @@
 def oxford_comma(array)
 values = ["kiwi", "durian", "starfruit", "mangos", "dragon fruits"]
 
-result = values[0].join
+result = values.join[0]
 puts result
-result_2 = values[0-1].join(" and ")
+result_2 = values.join[0-1](" and ")
 puts result_2
 end
